@@ -1,2 +1,2 @@
 # jenkins
-Jenkins docker image extended from jenkinsci/docker
+Jenkins docker image extended from [jenkinsci/docker](https://github.com/jenkinsci/docker).
