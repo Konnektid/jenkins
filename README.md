@@ -17,7 +17,7 @@ This image comes with a few additions on top of the Jenkins base image.
 **Tools:**
 
 - NodeJS 6
-- Ansible
+- Ansible 2
 
 **Plugins:**
 
